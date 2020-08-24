@@ -31,11 +31,6 @@
 /Users/Jama/Desktop/To-Do-List/src/obj/Debug/netcoreapp3.1/todo.TagHelpers.input.cache
 /Users/Jama/Desktop/To-Do-List/src/obj/Debug/netcoreapp3.1/todo.TagHelpers.output.cache
 /Users/Jama/Desktop/To-Do-List/src/obj/Debug/netcoreapp3.1/todo.RazorCoreGenerate.cache
-/Users/Jama/Desktop/To-Do-List/src/obj/Debug/netcoreapp3.1/Razor/Views/Item/Create.cshtml.g.cs
-/Users/Jama/Desktop/To-Do-List/src/obj/Debug/netcoreapp3.1/Razor/Views/Item/Delete.cshtml.g.cs
-/Users/Jama/Desktop/To-Do-List/src/obj/Debug/netcoreapp3.1/Razor/Views/Item/Details.cshtml.g.cs
-/Users/Jama/Desktop/To-Do-List/src/obj/Debug/netcoreapp3.1/Razor/Views/Item/Edit.cshtml.g.cs
-/Users/Jama/Desktop/To-Do-List/src/obj/Debug/netcoreapp3.1/Razor/Views/Item/Index.cshtml.g.cs
 /Users/Jama/Desktop/To-Do-List/src/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
 /Users/Jama/Desktop/To-Do-List/src/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
 /Users/Jama/Desktop/To-Do-List/src/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
@@ -50,3 +45,59 @@
 /Users/Jama/Desktop/To-Do-List/src/obj/Debug/netcoreapp3.1/todo.dll
 /Users/Jama/Desktop/To-Do-List/src/obj/Debug/netcoreapp3.1/todo.pdb
 /Users/Jama/Desktop/To-Do-List/src/obj/Debug/netcoreapp3.1/todo.genruntimeconfig.cache
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/todo.csprojAssemblyReference.cache
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/todo.csproj.CoreCompileInputs.cache
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/todo.MvcApplicationPartsAssemblyInfo.cache
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/todo.RazorAssemblyInfo.cache
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/todo.RazorAssemblyInfo.cs
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/todo.AssemblyInfoInputs.cache
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/todo.AssemblyInfo.cs
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/todo.TagHelpers.input.cache
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/todo.TagHelpers.output.cache
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/todo.RazorCoreGenerate.cache
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/todo.RazorTargetAssemblyInfo.cache
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/todo.RazorTargetAssemblyInfo.cs
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/todo.dll
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/todo.pdb
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/Microsoft.Azure.Cosmos.ServiceInterop.dll
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/Cosmos.CRTCompat.dll
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/todo.deps.json
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/todo.runtimeconfig.json
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/todo.runtimeconfig.dev.json
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/todo.dll
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/todo.pdb
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/todo.Views.dll
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/todo.Views.pdb
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/Microsoft.Azure.Cosmos.Client.dll
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/Microsoft.Azure.Cosmos.Core.dll
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/Microsoft.Azure.Cosmos.Direct.dll
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/System.ServiceModel.Primitives.dll
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/System.ServiceModel.dll
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Cosmos.CRTCompat.dll
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Azure.Cosmos.ServiceInterop.dll
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netstandard2.0/System.Private.ServiceModel.dll
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Private.ServiceModel.dll
+/Users/Jama/Desktop/To-Do-List copy/src/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/todo.Views.pdb
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/todo.csproj.CopyComplete
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/staticwebassets/todo.StaticWebAssets.Manifest.cache
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/staticwebassets/todo.StaticWebAssets.xml
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/todo.genruntimeconfig.cache
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/Razor/Views/Trail/Create.cshtml.g.cs
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/Razor/Views/Trail/Delete.cshtml.g.cs
+/Users/Jama/Desktop/To-Do-List copy/src/obj/Debug/netcoreapp3.1/Razor/Views/Trail/Index.cshtml.g.cs
+/Users/Jama/Desktop/To-Do-List/src/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/Jama/Desktop/To-Do-List/src/obj/Debug/netcoreapp3.1/Razor/Views/Trail/Create.cshtml.g.cs
+/Users/Jama/Desktop/To-Do-List/src/obj/Debug/netcoreapp3.1/Razor/Views/Trail/Delete.cshtml.g.cs
+/Users/Jama/Desktop/To-Do-List/src/obj/Debug/netcoreapp3.1/Razor/Views/Trail/Index.cshtml.g.cs
+/Users/Jama/Desktop/To-Do-List/src/obj/Debug/netcoreapp3.1/Razor/Views/Trail/ShowTrail.cshtml.g.cs

@@ -1,4 +1,4 @@
-﻿@model todo.Models.Item
+﻿@model Hike.Models.Trail
 
 @{
     ViewBag.Title = "Delete";
@@ -15,7 +15,7 @@
             @Html.DisplayNameFor(model => model.Name)
         </dt>
 
-        <dd>
+        @* <dd>
             @Html.DisplayFor(model => model.Name)
         </dd>
 
@@ -33,7 +33,7 @@
 
         <dd>
             @Html.DisplayFor(model => model.Completed)
-        </dd>
+        </dd> *@
     </dl>
 
     @using (Html.BeginForm()) {

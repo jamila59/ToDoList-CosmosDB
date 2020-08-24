@@ -1,0 +1,15 @@
+@using Hike.Models;
+@model Trail;
+    
+<h2>@Model.Name</h2>
+<p>@Model.Location</p>
+<p>@Model.Summary</p>
+<p>Length: @Model.Length</p>
+<p>Starting Elevation: @Model.Low</p>
+<p>Elevation Gain: @Model.Ascent</p>
+<p>Condition: @Model.ConditionDetails</p>
+
+<img src="@Model.ImgSqSmall" />
+
+
+<button>Add</button>

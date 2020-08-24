@@ -1,4 +1,4 @@
-﻿namespace todo
+﻿namespace Hike
 {
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Builder;
@@ -6,6 +6,7 @@
     using Microsoft.Extensions.Configuration;
     using Microsoft.Extensions.DependencyInjection;
     using Microsoft.Extensions.Hosting;
+    using Hike.Models;
 
     public class Startup
     {
@@ -21,6 +22,7 @@
         {
             services.AddControllersWithViews();
             services.AddSingleton<ICosmosDbService>(InitializeCosmosClientInstanceAsync(Configuration.GetSection("CosmosDb")).GetAwaiter().GetResult());
+            services.AddSingleton<ITrailRepository, TrailMemoryRepository>();
         }
         // </ConfigureServices> 
 
@@ -48,7 +50,7 @@
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Item}/{action=Index}/{id?}");
+                    pattern: "{controller=Home}/{action=Index}/{id?}");
             });
         }
 

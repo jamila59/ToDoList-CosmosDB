@@ -14392,13 +14392,13 @@
   "RootNamespace": "todo",
   "Documents": [
     {
-      "FilePath": "/Users/Jama/Desktop/To-Do-List/src/Views/_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FilePath": "/Users/Jama/Desktop/To-Do-List/src/Views/Trail/Delete.cshtml",
+      "TargetPath": "Views\\Trail\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/Jama/Desktop/To-Do-List/src/Views/Item/Create.cshtml",
-      "TargetPath": "Views\\Item\\Create.cshtml",
+      "FilePath": "/Users/Jama/Desktop/To-Do-List/src/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14412,13 +14412,18 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/Jama/Desktop/To-Do-List/src/Views/Item/Edit.cshtml",
-      "TargetPath": "Views\\Item\\Edit.cshtml",
+      "FilePath": "/Users/Jama/Desktop/To-Do-List/src/Views/Trail/ShowTrail.cshtml",
+      "TargetPath": "Views\\Trail\\ShowTrail.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/Jama/Desktop/To-Do-List/src/Views/Item/Index.cshtml",
-      "TargetPath": "Views\\Item\\Index.cshtml",
+      "FilePath": "/Users/Jama/Desktop/To-Do-List/src/Views/Trail/Index.cshtml",
+      "TargetPath": "Views\\Trail\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/Jama/Desktop/To-Do-List/src/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14427,18 +14432,13 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/Jama/Desktop/To-Do-List/src/Views/Trail/Create.cshtml",
+      "TargetPath": "Views\\Trail\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/Jama/Desktop/To-Do-List/src/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Jama/Desktop/To-Do-List/src/Views/Item/Delete.cshtml",
-      "TargetPath": "Views\\Item\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/Jama/Desktop/To-Do-List/src/Views/Item/Details.cshtml",
-      "TargetPath": "Views\\Item\\Details.cshtml",
       "FileKind": "mvc"
     }
   ],

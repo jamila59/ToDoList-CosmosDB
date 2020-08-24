@@ -1,4 +1,4 @@
-﻿namespace todo
+﻿namespace Hike
 {
     using Microsoft.AspNetCore;
     using Microsoft.AspNetCore.Hosting;
